@@ -19,7 +19,7 @@
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
-<code>[Pyton3.x Basic Programming](https://github.com/mrankitgupta/titanic-survival-prediction-93-xgboost)</code> 👨‍💻 
+<code>[Pyton3.x Basic Programming](https://github.com/muhamadsahrul59/Python3.x_Basic_Programming)</code> 👨‍💻 
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
