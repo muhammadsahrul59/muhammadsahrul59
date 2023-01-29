@@ -3,7 +3,7 @@
 
 ### Liked my Contributions:question:[Follow Me](https://github.com/muhamadsahrul59/):point_right: [LinkedIn](https://www.linkedin.com/in/sahrul59) :star: :sparkles:
 
-- 👨‍💻 All about me is at [My Website](https://www.linkedin.com/in/sahrul59) 
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/sahrul59) 
 
 - 🔭 I’m currently working on PT. Bank Mandiri Tbk. 
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/sahrul59)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahrul59) / [Instagram](https://www.instagram.com/sahrullss)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahrul59) / [Instagram](https://www.instagram.com/sahrullss) / **m.sahrul59@gmail.com**
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Beatbox :microphone:  Basketball :basketball:
 
@@ -28,9 +28,9 @@
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sahrul59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sahrullss_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sahrul59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrankitgupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahrul59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamadsahrul59" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sahrullss_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhamadsahrul59" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sahrul59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhamadsahrul59" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Ankit-Gupta-1154" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/9a416e5bb1093b13204a0e47d7f7fb3af2c39028/quora-logo-2439.svg" alt="Ankit-Gupta-1154" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCm_krXJhDSLE_Nmo-Y_7-Sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankit gupta" height="30" width="40" /></a>
 </p>
@@ -49,4 +49,17 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
 </p>
