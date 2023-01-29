@@ -5,11 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/sahrul59) 
 
-- 🔭 I’m currently working on PT. Bank Mandiri Tbk. 
+- 🌱 I’m currently learning **Data Science & Data Analytics**
 
-- 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence 
+- 🔭 I’m currently working on [PT Bank Mandiri Tbk.](https://bankmandiri.co.id/) 
 
-- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Tableau", "Data Analytics", "Java", "R", "C++", "PHP" ] ```
+- 🛩️ Exploring Data Science, Data Analytics, Machine Learning, Deep Learning & Artificial Intelligence 
+
+- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Tableau", "R", "Java", "C++", "PHP" ] ```
 
 - 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/sahrul59)
 
