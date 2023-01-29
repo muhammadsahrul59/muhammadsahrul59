@@ -24,6 +24,7 @@
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/d2e30cc0-ed5e-4b8b-a23f-2079eb853740/linked_in_profile) - by Google
+- [Python](https://www.kaggle.com/learn/certification/sahrul59/python) - by Kaggle
  
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
