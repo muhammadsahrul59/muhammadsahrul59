@@ -21,9 +21,11 @@
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
-<code>[Pyton3.x Basic Programming](https://github.com/muhamadsahrul59/Python3.x_Basic_Programming)</code> 👨‍💻 
+<code>[Cyclistic Bike Share Data Analysis using Python](https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python)</code> 📊
 
 <code>[Tableau Public Dashboard Portfolio](https://public.tableau.com/app/profile/muhamad.sahrul)</code> 📊
+
+<code>[Pyton3.x Basic Programming](https://github.com/muhamadsahrul59/Python3.x_Basic_Programming)</code> 👨‍💻 
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
