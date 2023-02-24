@@ -40,6 +40,8 @@
 - [SQL and Python Certificate](https://www.hackerrank.com/sahrul59) - by HackerRank
 
 - [Data Visualization with Tableau](https://simpli-web.app.link/e/nVEkRMLUfxb) - by Simplilearn
+
+- [Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/verify/M4NGRVVZS8MA) - by PwC
  
 <h3 align="left">Connect with me 🔗</h3>
 
