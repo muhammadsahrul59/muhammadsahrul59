@@ -37,6 +37,8 @@
 
 - [Data Science with Python](https://www.kaggle.com/learn/certification/sahrul59/python) - by Kaggle
 
+- [Statistics for Data Science with Python](https://www.credly.com/badges/049e29c6-e6d9-4ee7-a49d-aa2f2bf31555/public_url) - by IBM
+
 - [SQL for Data Analytics](https://www.w3profile.com/sahrul59) - by W3schools
 
 - [SQL and Python Certificate](https://www.hackerrank.com/sahrul59) - by HackerRank
@@ -44,6 +46,9 @@
 - [Data Visualization with Tableau](https://simpli-web.app.link/e/nVEkRMLUfxb) - by Simplilearn
 
 - [Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/verify/M4NGRVVZS8MA) - by PwC
+
+
+
  
 <h3 align="left">Connect with me 🔗</h3>
 
