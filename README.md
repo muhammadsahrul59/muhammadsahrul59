@@ -39,6 +39,8 @@
 
 - [Statistics for Data Science with Python](https://www.credly.com/badges/049e29c6-e6d9-4ee7-a49d-aa2f2bf31555/public_url) - by IBM
 
+- [Databases and SQL for Data Science](https://www.credly.com/badges/b3facd70-5fbb-4d8e-b7e4-d61a72cf1b39/linked_in_profile) - by IBM
+
 - [SQL for Data Analytics](https://www.w3profile.com/sahrul59) - by W3schools
 
 - [SQL and Python Certificate](https://www.hackerrank.com/sahrul59) - by HackerRank
