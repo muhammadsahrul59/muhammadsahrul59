@@ -42,6 +42,10 @@
 
 - [Databases and SQL for Data Science](https://www.credly.com/badges/b3facd70-5fbb-4d8e-b7e4-d61a72cf1b39/linked_in_profile) - by IBM
 
+- [Data Analysis with Python](https://www.credly.com/badges/ef918aa9-6cb1-4679-80f3-462ab93fb2ef/public_url) - by IBM
+
+- [Data Visualization with Python](https://coursera.org/share/3ff75a1fd88348d46faf95faa41a1718) - by IBM
+
 - [SQL for Data Analytics](https://www.w3profile.com/sahrul59) - by W3schools
 
 - [SQL and Python Certificate](https://www.hackerrank.com/sahrul59) - by HackerRank
