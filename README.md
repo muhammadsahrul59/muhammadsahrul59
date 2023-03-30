@@ -44,7 +44,7 @@
 
 - [Data Analysis with Python](https://www.credly.com/badges/ef918aa9-6cb1-4679-80f3-462ab93fb2ef/public_url) - by IBM
 
-- [Data Visualization with Python](https://coursera.org/share/3ff75a1fd88348d46faf95faa41a1718) - by IBM
+- [Data Visualization with Python](https://www.credly.com/badges/daa0a3d6-bd79-4434-aa54-bfb9396ee9d3/public_url) - by IBM
 
 - [SQL for Data Analytics](https://www.w3profile.com/sahrul59) - by W3schools
 
