@@ -42,7 +42,7 @@
 
 - [Databases and SQL for Data Science](https://www.credly.com/badges/b3facd70-5fbb-4d8e-b7e4-d61a72cf1b39/linked_in_profile) - by IBM
 
-- [Data Analysis with Python](https://www.credly.com/badges/ef918aa9-6cb1-4679-80f3-462ab93fb2ef/public_url) - by IBM
+- [Data Analysis with Python](https://www.credly.com/badges/4fe16f33-a620-435c-a123-b0f52f4ce05f/public_url) - by IBM
 
 - [Data Visualization with Python](https://www.credly.com/badges/daa0a3d6-bd79-4434-aa54-bfb9396ee9d3/public_url) - by IBM
 
