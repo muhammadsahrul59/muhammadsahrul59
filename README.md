@@ -24,6 +24,8 @@
 
 <code>[Cyclistic Bike Share Data Analysis using Python](https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python)</code> 📊
 
+<code>[Data Analysis with Python](https://github.com/muhamadsahrul59/Data-Analysis-with-Python)</code> 📊
+
 <code>[Statistic for Data Science with Python](https://github.com/muhamadsahrul59/Statistic-for-Data-Science-with-Python)</code> 📊
 
 <code>[Tableau Public Dashboard Portfolio](https://public.tableau.com/app/profile/muhamad.sahrul)</code> 📊
