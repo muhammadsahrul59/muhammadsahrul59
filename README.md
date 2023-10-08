@@ -22,7 +22,7 @@
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
-<code>[Bike Sharing Dashboard]([https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python](https://github.com/muhamadsahrul59/Bike-Sharing-Dashboard))</code> 📊
+<code>[Bike Sharing Dashboard](https://github.com/muhamadsahrul59/Bike-Sharing-Dashboard)</code> 📊
 
 <code>[Data Analysis with Python](https://github.com/muhamadsahrul59/Data-Analysis-with-Python)</code> 📊
 
