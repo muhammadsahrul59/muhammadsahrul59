@@ -24,7 +24,7 @@
 
 <code>[Bike Sharing Dashboard](https://github.com/muhamadsahrul59/Bike-Sharing-Dashboard)</code> 📊
 
-<code>[Data Analysis with Python](https://github.com/muhamadsahrul59/Data-Analysis-with-Python)</code> 📊
+<code>[Image Classification : Rock,Paper,Scissors 99%](https://github.com/muhammadsahrul59/ImageClassification-Rock-Paper-Scissors)</code> 📊
 
 <code>[Statistic for Data Science with Python](https://github.com/muhamadsahrul59/Statistic-for-Data-Science-with-Python)</code> 📊
 
@@ -36,8 +36,6 @@
 
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/d2e30cc0-ed5e-4b8b-a23f-2079eb853740/linked_in_profile) - by Google
 
-- [Data Science Foundations](https://olympus1.mygreatlearning.com/course_certificate/HOBNRYZJ) - by Great Learning
-
 - [Data Science with Python](https://www.kaggle.com/learn/certification/sahrul59/python) - by Kaggle
 
 - [Statistics for Data Science with Python](https://www.credly.com/badges/049e29c6-e6d9-4ee7-a49d-aa2f2bf31555/public_url) - by IBM
@@ -48,13 +46,21 @@
 
 - [Data Visualization with Python](https://www.credly.com/badges/daa0a3d6-bd79-4434-aa54-bfb9396ee9d3/public_url) - by IBM
 
-- [SQL for Data Analytics](https://www.w3profile.com/sahrul59) - by W3schools
-
-- [SQL and Python Certificate](https://www.hackerrank.com/sahrul59) - by HackerRank
-
 - [Data Visualization with Tableau](https://simpli-web.app.link/e/nVEkRMLUfxb) - by Simplilearn
 
 - [Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/verify/M4NGRVVZS8MA) - by PwC
+
+- [Belajar Dasar Data Science](https://www.dicoding.com/certificates/JMZV1NLORXN9) - by Dicoding
+
+- [Belajar Dasar SQL](https://www.dicoding.com/certificates/1OP8NL141XQK) - by Dicoding
+
+- [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/1RXY00E21ZVM) - by Dicoding
+
+- [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/4EXG4Q7Y1PRL) - by Dicoding
+
+- [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/07Z68463YXQR) - by Dicoding
+
+- [Belajar Pengembangan Machine Learning](https://www.dicoding.com/certificates/JMZVDNG3QZN9) - by Dicoding
 
 
 
