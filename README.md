@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Beatbox :microphone: 
 
-<h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
+<h3 align="left">What are my featured projects :question: 👨‍💻 🛰️</h3>
 
 <code>[Bike Sharing Dashboard](https://github.com/muhamadsahrul59/Bike-Sharing-Dashboard)</code> 📊
 
