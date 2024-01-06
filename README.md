@@ -1,104 +1,80 @@
-<h3 align="center">A self-taught Data Science/Analyst Enthusiast</h3>
+<h3 align="center">Data Analytics, Data Science & Machine Learning Admirer</h3>
 <h3 align="center"> Google Data Analytics Professional Certificate</h3>
 <h3 align="center"> IBM Data Science Certificate</h3>
+<h3 align="center"> IDCAMP 2023 - Dicoding Data Science Certificate</h3>
 
-### Liked my Contributions:question:[Follow Me](https://github.com/muhamadsahrul59/):point_right: [LinkedIn](https://www.linkedin.com/in/sahrul59) :star: :sparkles:
+- 🌱 I’m currently learning **Data Science, Data Analytics & Machine Learning**
 
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/sahrul59) 
-
-- 🌱 I’m currently learning **Data Science & Data Analytics**
-
-- 🔭 I’m currently working on [PT Bank Mandiri Tbk.](https://bankmandiri.co.id/) 
+- 🔭 Two years experience as Teller at [PT Bank Mandiri Tbk.](https://bankmandiri.co.id/) 
 
 - 🛩️ Exploring Data Science, Data Analytics, Machine Learning, Deep Learning & Artificial Intelligence 
 
-- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Tableau", "R", "Java", "C++", "PHP" ] ```
+- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Tableau", "Java", "C++"] ```
 
 - 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/sahrul59)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahrul59) / [Instagram](https://www.instagram.com/sahrullss) / **m.sahrul59@gmail.com**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahrul59) / [Instagram](https://www.instagram.com/sahrullss) / [m.sahrul59@gmail.com](m.sahrul59@gmail.com)
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Beatbox :microphone: 
 
-<h3 align="left">What are my featured projects :question: 👨‍💻 🛰️</h3>
+<h3 align="left">What are my featured projects :question: 👨‍💻📱 🛰️</h3>
 
 <code>[Bike Sharing Dashboard](https://github.com/muhamadsahrul59/Bike-Sharing-Dashboard)</code> 📊
 
 <code>[Image Classification : Rock,Paper,Scissors 99%](https://github.com/muhammadsahrul59/ImageClassification-Rock-Paper-Scissors)</code> 📊
 
-<code>[Statistic for Data Science with Python](https://github.com/muhamadsahrul59/Statistic-for-Data-Science-with-Python)</code> 📊
-
 <code>[Tableau Public Dashboard Portfolio](https://public.tableau.com/app/profile/muhamad.sahrul)</code> 📊
 
-<code>[Pyton3.x Basic Programming](https://github.com/muhamadsahrul59/Python3.x_Basic_Programming)</code> 👨‍💻 
+<code>[Statistic for Data Science with Python](https://github.com/muhamadsahrul59/Statistic-for-Data-Science-with-Python)</code> 📖
 
-<h3 align="left">My Certifications 📜 🎓 ✔️</h3>
+<code>[Pyton3.x Basic Programming](https://github.com/muhamadsahrul59/Python3.x_Basic_Programming)</code> 📖 
 
-- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/d2e30cc0-ed5e-4b8b-a23f-2079eb853740/linked_in_profile) - by Google
+<h3 align="left">My Certifications 📜 🎓 ✔</h3>
 
-- [Data Science with Python](https://www.kaggle.com/learn/certification/sahrul59/python) - by Kaggle
+| No.  | Certificate                                             |  Issuer | Cert link |
+|:----:|---|:-:|:-:|
+|  1   |  Google Data Analytics Professional Certificate | Google   | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/WEA79R3EXFHB) |
+|  2   |  Python for Data Science, AI & Development      | IBM      | [Click Here](https://www.coursera.org/account/accomplishments/verify/SSV8JTTTBKQ4) |
+|  3   |  Statistics for Data Science with Python        | IBM      | [Click Here](https://www.coursera.org/account/accomplishments/verify/R8XQQKL6XGG2) |
+|  4   |  Databases and SQL for Data Science             | IBM      | [Click Here](https://www.coursera.org/account/accomplishments/verify/LCHU4RUHJB78) |
+|  5   |  Data Analysis with Python                      | IBM      | [Click Here](https://www.coursera.org/account/accomplishments/verify/DZ3JCVL8UF82) |
+|  6   |  Data Visualization with Python                 | IBM      | [Click Here](https://www.coursera.org/account/accomplishments/verify/Z9PHXM2TXH58) |
+|  7   |  Data Visualization with Advanced Excel         | PwC      | [Click Here](https://www.coursera.org/account/accomplishments/verify/M4NGRVVZS8MA) |
+|  8   |  Belajar Dasar Data Science                     | Dicoding | [Click Here](https://www.dicoding.com/certificates/JMZV1NLORXN9) |
+|  9   |  Belajar Dasar SQL                              | Dicoding | [Click Here](https://www.dicoding.com/certificates/1OP8NL141XQK) |
+|  10   |  Memulai Pemrograman dengan Python             | Dicoding | [Click Here](https://www.dicoding.com/certificates/1RXY00E21ZVM) |
+|  11  |  Belajar Analisis Data dengan Python            | Dicoding | [Click Here](https://www.dicoding.com/certificates/4EXG4Q7Y1PRL) |
+|  12  |  Belajar Machine Learning untuk Pemula          | Dicoding | [Click Here](https://www.dicoding.com/certificates/07Z68463YXQR) |
+|  13  |  Belajar Pengembangan Machine Learning          | Dicoding | [Click Here](https://www.dicoding.com/certificates/JMZVDNG3QZN9) |
 
-- [Statistics for Data Science with Python](https://www.credly.com/badges/049e29c6-e6d9-4ee7-a49d-aa2f2bf31555/public_url) - by IBM
-
-- [Databases and SQL for Data Science](https://www.credly.com/badges/b3facd70-5fbb-4d8e-b7e4-d61a72cf1b39/linked_in_profile) - by IBM
-
-- [Data Analysis with Python](https://www.credly.com/badges/4fe16f33-a620-435c-a123-b0f52f4ce05f/public_url) - by IBM
-
-- [Data Visualization with Python](https://www.credly.com/badges/daa0a3d6-bd79-4434-aa54-bfb9396ee9d3/public_url) - by IBM
-
-- [Data Visualization with Tableau](https://simpli-web.app.link/e/nVEkRMLUfxb) - by Simplilearn
-
-- [Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/verify/M4NGRVVZS8MA) - by PwC
-
-- [Belajar Dasar Data Science](https://www.dicoding.com/certificates/JMZV1NLORXN9) - by Dicoding
-
-- [Belajar Dasar SQL](https://www.dicoding.com/certificates/1OP8NL141XQK) - by Dicoding
-
-- [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/1RXY00E21ZVM) - by Dicoding
-
-- [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/4EXG4Q7Y1PRL) - by Dicoding
-
-- [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/07Z68463YXQR) - by Dicoding
-
-- [Belajar Pengembangan Machine Learning](https://www.dicoding.com/certificates/JMZVDNG3QZN9) - by Dicoding
-
-
-
- 
 <h3 align="left">Connect with me 🔗</h3>
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sahrul59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamadsahrul59" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sahrullss_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhamadsahrul59" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sahrul59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhamadsahrul59" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Ankit-Gupta-1154" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/9a416e5bb1093b13204a0e47d7f7fb3af2c39028/quora-logo-2439.svg" alt="Ankit-Gupta-1154" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCm_krXJhDSLE_Nmo-Y_7-Sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankit gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahrul59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sahrullss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCm_krXJhDSLE_Nmo-Y_7-Sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
+<a href="https://id.quora.com/profile/Sahrul-9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Quora_logo.svg" alt="Quora" height="30" width="55" /></a>
 </p>
 
-<h3 align="left">Languages and Tools 🛠️ </h3>
+<h3 align="left">Tools 🛠️🚧</h3>
 <p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>  
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="40" height="40"/> </a> 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/icons8-jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/icons8-django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="tableau" width="40" height="40"/> </a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google_colab" width="40" height="40"/> </a>
+<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
+ <h3 align="left">Languages 🔠⌨️</h3>
+<p align="left"> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
