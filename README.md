@@ -31,7 +31,7 @@
 
 <h3 align="left">My Certifications 📜 🎓 ✔</h3>
 
-| No.  | Certificate                                             |  Issuer | Cert link |
+| No.  | Certificate                                     |  Issuer | Cert link |
 |:----:|---|:-:|:-:|
 |  1   |  Google Data Analytics Professional Certificate | Google   | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/WEA79R3EXFHB) |
 |  2   |  Python for Data Science, AI & Development      | IBM      | [Click Here](https://www.coursera.org/account/accomplishments/verify/SSV8JTTTBKQ4) |
@@ -42,7 +42,7 @@
 |  7   |  Data Visualization with Advanced Excel         | PwC      | [Click Here](https://www.coursera.org/account/accomplishments/verify/M4NGRVVZS8MA) |
 |  8   |  Belajar Dasar Data Science                     | Dicoding | [Click Here](https://www.dicoding.com/certificates/JMZV1NLORXN9) |
 |  9   |  Belajar Dasar SQL                              | Dicoding | [Click Here](https://www.dicoding.com/certificates/1OP8NL141XQK) |
-|  10   |  Memulai Pemrograman dengan Python             | Dicoding | [Click Here](https://www.dicoding.com/certificates/1RXY00E21ZVM) |
+|  10  |  Memulai Pemrograman dengan Python              | Dicoding | [Click Here](https://www.dicoding.com/certificates/1RXY00E21ZVM) |
 |  11  |  Belajar Analisis Data dengan Python            | Dicoding | [Click Here](https://www.dicoding.com/certificates/4EXG4Q7Y1PRL) |
 |  12  |  Belajar Machine Learning untuk Pemula          | Dicoding | [Click Here](https://www.dicoding.com/certificates/07Z68463YXQR) |
 |  13  |  Belajar Pengembangan Machine Learning          | Dicoding | [Click Here](https://www.dicoding.com/certificates/JMZVDNG3QZN9) |
@@ -59,15 +59,14 @@
 
 <h3 align="left">Tools 🛠️🚧</h3>
 <p align="left"> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="tableau" width="40" height="40"/> </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google_colab" width="40" height="40"/> </a>
 <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="tableau" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
- <h3 align="left">Languages 🔠⌨️</h3>
+<h3 align="left">Languages 🔠⌨️</h3>
 <p align="left"> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -77,4 +76,5 @@
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
