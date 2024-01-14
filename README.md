@@ -1,7 +1,13 @@
 <h3 align="center">Data Analytics, Data Science & Machine Learning Admirer</h3>
-<h3 align="center"> Google Data Analytics Professional Certificate</h3>
-<h3 align="center"> IBM Data Science Certificate</h3>
-<h3 align="center"> IDCAMP 2023 - Dicoding Data Science Certificate</h3>
+<h3 align="center">
+  <a href="https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=bg&utm_medium=sem&utm_campaign=B2C_APAC_Brand_FTCOF_Courseaplus_ARTE_BING&utm_content=B2C_INDIA___FTCOF__arte_bing_branded&campaignid=662564580&adgroupid=1244648471398386&device=c&keyword=coursera&matchtype=e&network=o&devicemodel=&adpostion=&creativeid=&hide_mobile_promo=&utm_term=coursera">Google Data Analytics Professional Certificate</a>
+</h3>
+<h3 align="center">
+  <a href="https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=bg&utm_medium=sem&utm_campaign=B2C_APAC_Brand_FTCOF_Courseaplus_ARTE_BING&utm_content=B2C_INDIA___FTCOF__arte_bing_branded&campaignid=662564580&adgroupid=1244648471398386&device=c&keyword=coursera&matchtype=e&network=o&devicemodel=&adpostion=&creativeid=&hide_mobile_promo=&utm_term=coursera">IBM Data Science Professional Certificate</a>
+</h3>
+<h3 align="center">
+  <a href="https://idcamp.ioh.co.id/">IDCAMP 2023 - Dicoding Data Science Certificate</a>
+</h3>
 
 - 🌱 I’m currently learning **Data Science, Data Analytics & Machine Learning**
 
@@ -18,6 +24,12 @@
 - ⚡ Fun fact: :hearts: Photography :camera:  Beatbox :microphone: 
 
 <h3 align="left">What are my featured projects :question: 👨‍💻📱 🛰️</h3>
+
+<code>[Image Classification App TensorFlowLite](https://github.com/muhammadsahrul59/ImageClassificationApp-TensorFlowLite)</code> 📊
+
+<code>[Daily Sunspot TimeSeries](https://github.com/muhammadsahrul59/Daily-Sunspot-TimeSeries)</code> 📊
+
+<code>[Twitter Sentiment Analysis NLP](https://github.com/muhammadsahrul59/Twitter-Sentiment-Analysis-NLP)</code> 📊
 
 <code>[Bike Sharing Dashboard](https://github.com/muhamadsahrul59/Bike-Sharing-Dashboard)</code> 📊
 
