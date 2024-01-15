@@ -19,7 +19,7 @@
 
 - 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/sahrul59)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahrul59) / [Instagram](https://www.instagram.com/sahrullss) / [m.sahrul59@gmail.com](m.sahrul59@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahrul59) / [Instagram](https://www.instagram.com/sahrullss) / [m.sahrul59@gmail.com](mailto:m.sahrul59@gmail.com)
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Beatbox :microphone: 
 
