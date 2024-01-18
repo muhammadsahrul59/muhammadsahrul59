@@ -9,6 +9,8 @@
   <a href="https://idcamp.ioh.co.id/">IDCAMP 2023 - Dicoding Data Science Certificate</a>
 </h3>
 
+<h3 align="left">About Me: 🧑🏽‍💻👋🏼🔥</h3>
+
 - 🌱 I’m currently learning **Data Science, Data Analytics & Machine Learning**
 
 - 🔭 Two years experience as Teller at [PT Bank Mandiri Tbk.](https://bankmandiri.co.id/) 
@@ -23,7 +25,7 @@
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Beatbox :microphone: 
 
-<h3 align="left">What are my featured projects :question: 👨‍💻📱 🛰️</h3>
+<h3 align="left">What are my featured projects? 👨‍💻📱 🛰️</h3>
 
 <code>[Object Detection using YOLOv8](https://github.com/muhammadsahrul59/ObjectDetection_YOLOv8)</code> 📊
 
