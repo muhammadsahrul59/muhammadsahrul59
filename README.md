@@ -25,6 +25,8 @@
 
 <h3 align="left">What are my featured projects :question: 👨‍💻📱 🛰️</h3>
 
+<code>[Object Detection using YOLOv8](https://github.com/muhammadsahrul59/ObjectDetection_YOLOv8)</code> 📊
+
 <code>[Image Classification App TensorFlowLite](https://github.com/muhammadsahrul59/ImageClassificationApp-TensorFlowLite)</code> 📊
 
 <code>[Daily Sunspot TimeSeries](https://github.com/muhammadsahrul59/Daily-Sunspot-TimeSeries)</code> 📊
