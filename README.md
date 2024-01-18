@@ -79,7 +79,7 @@
 <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="tableau" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/1024px-Android_Studio_icon.svg_3u7h3BG.png" alt="android_studio" width="40" height="40"/> </a>
 
 <h3 align="left">Languages 🔠⌨️</h3>
 <p align="left"> 
