@@ -1,4 +1,4 @@
-<h3 align="center">Data Analytics, Data Science & Machine Learning Admirer</h3>
+<h1 align="center">Data Analytics, Data Science & Machine Learning Admirer</h1>
 <h3 align="center">
   <a href="https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=bg&utm_medium=sem&utm_campaign=B2C_APAC_Brand_FTCOF_Courseaplus_ARTE_BING&utm_content=B2C_INDIA___FTCOF__arte_bing_branded&campaignid=662564580&adgroupid=1244648471398386&device=c&keyword=coursera&matchtype=e&network=o&devicemodel=&adpostion=&creativeid=&hide_mobile_promo=&utm_term=coursera">Google Data Analytics Professional Certificate</a>
 </h3>
