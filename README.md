@@ -6,18 +6,18 @@
 
 <h2 align="center">A Passionate Data Analytics, Data Science, and Machine Learning</h1>
 <h3 align="center">
-  <a href="https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=bg&utm_medium=sem&utm_campaign=B2C_APAC_Brand_FTCOF_Courseaplus_ARTE_BING&utm_content=B2C_INDIA___FTCOF__arte_bing_branded&campaignid=662564580&adgroupid=1244648471398386&device=c&keyword=coursera&matchtype=e&network=o&devicemodel=&adpostion=&creativeid=&hide_mobile_promo=&utm_term=coursera">Google Data Analytics Professional Certificate</a>
+  <a href="https://idcamp.ioh.co.id/">IDCAMP 2023 - Data Scientist</a>
 </h3>
 <h3 align="center">
-  <a href="https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=bg&utm_medium=sem&utm_campaign=B2C_APAC_Brand_FTCOF_Courseaplus_ARTE_BING&utm_content=B2C_INDIA___FTCOF__arte_bing_branded&campaignid=662564580&adgroupid=1244648471398386&device=c&keyword=coursera&matchtype=e&network=o&devicemodel=&adpostion=&creativeid=&hide_mobile_promo=&utm_term=coursera">IBM Data Science Professional Certificate</a>
+  <a href="https://grow.google/intl/id_id/bangkit/">Bangkit Academy 2024 - Machine Learning</a>
 </h3>
 <h3 align="center">
-  <a href="https://idcamp.ioh.co.id/">IDCAMP 2023 - Dicoding Data Science Certificate</a>
+  <a href="https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html">DBS Foundation Coding Camp 2024 - Machine Learning</a>
 </h3>
 
 <hr/>
  
-<h2 align="center">🧑🏽‍💻About Me👋🏼</h2>
+<h2 align="center">🧑🏽‍💻 About Me 👋🏼</h2>
 
 <div align="left">
 
@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center">📱What are my featured projects?💻</h2>
+<h2 align="center">📱 What are my featured projects? 💻</h2>
 
 <code>[Object Detection using YOLOv8](https://github.com/muhammadsahrul59/ObjectDetection_YOLOv8)</code> 📊
 
@@ -96,14 +96,17 @@
 
 <hr/>
 
-<h2 align="center">Languages-Frameworks-Tools 🔠⚒️🚧</h2>
+<h2 align="center">🔠 Languages-Frameworks-Tools ⚒️</h2>
+<br>
 <p align="center"> 
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google_colab" width="40" height="40"/> </a>
 <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="tableau" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/1024px-Android_Studio_icon.svg_3u7h3BG.png" alt="android_studio" width="40" height="40"/> </a>
-
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="microsoft_excel" width="40" height="40"/> </a>
+<a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="google_spreadsheet" width="40" height="40"/> </a>
+<br>
 <p align="center"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -121,7 +124,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🏆 My Contributions 🏆</h2>
+  <h2>🏆 My Contributions 🏅</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhammadsahrul59/muhammadsahrul59/output/github-contribution-grid-snake.svg" />
   
