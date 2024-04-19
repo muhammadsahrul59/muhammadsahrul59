@@ -64,7 +64,7 @@
 
 <code>[Twitter Sentiment Analysis NLP](https://github.com/muhammadsahrul59/Twitter-Sentiment-Analysis-NLP)</code> 📊
 
-<code>[Bike Sharing Dashboard](https://github.com/muhamadsahrul59/Bike-Sharing-Dashboard)</code> 📊
+<code>[Bike Sharing Dashboard](https://github.com/muhammadsahrul59/Bike-Sharing-Dashboard)</code> 📊
 
 <code>[Image Classification : Rock,Paper,Scissors 99%](https://github.com/muhammadsahrul59/ImageClassification-Rock-Paper-Scissors)</code> 📊
 
