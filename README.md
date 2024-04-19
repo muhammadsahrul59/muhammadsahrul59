@@ -124,7 +124,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🏆 My Contributions 🏅</h2>
+  <h2>🏆 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhammadsahrul59/muhammadsahrul59/output/github-contribution-grid-snake.svg" />
   
