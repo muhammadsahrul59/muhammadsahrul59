@@ -62,6 +62,10 @@
 
 <code>[Image Classification App TensorFlowLite](https://github.com/muhammadsahrul59/ImageClassificationApp-TensorFlowLite)</code> 📊
 
+<code>[Movie System Recommendation](https://github.com/muhammadsahrul59/Movie-System-Recommendation)</code> 📊
+
+<code>[Stroke Predictive Analysis](https://github.com/muhammadsahrul59/Stroke-Analysis)</code> 📊
+
 <code>[Daily Sunspot TimeSeries](https://github.com/muhammadsahrul59/Daily-Sunspot-TimeSeries)</code> 📊
 
 <code>[Twitter Sentiment Analysis NLP](https://github.com/muhammadsahrul59/Twitter-Sentiment-Analysis-NLP)</code> 📊
